@@ -1,0 +1,18 @@
+{
+  "id": "session_001",
+  "createdAt": "2025-02-21T10:00:00Z",
+  "updatedAt": "2025-02-21T12:30:00Z",
+  "outputs": [
+    {
+      "id": "msg_001",
+      "createdAt": "2025-02-21T10:01:00Z",
+      "updatedAt": "2025-02-21T10:02:00Z",
+      "type": "text",
+      "session_id": "session_001",
+      "category": "message",
+      "edit": false,
+      "text": "Hello! How can I assist you today?",
+      "author": "bot"
+    }
+  ]
+}

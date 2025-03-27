@@ -1,0 +1,27 @@
+{
+  "splash": {
+    "name": "Splash",
+    "label": "Splash Page"
+  },
+  "signIn": {
+    "name": "SignIn",
+    "label": "SignIn Page",
+    "buttonSignInWithGoogle": "Sign In With Google"
+  },
+  "home": {
+    "name": "Home",
+    "label": "Home Page"
+  },
+  "profile": {
+    "name": "Profile",
+    "label": "Profile Page"
+  },
+  "settings": {
+    "name": "Settings",
+    "label": "Settings Page"
+  },
+  "chat": {
+    "name": "Chat",
+    "label": "Chat Page"
+  }
+}
